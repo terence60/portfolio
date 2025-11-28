@@ -54,7 +54,7 @@ li {
 }
 
 .list-unstyled{
-    list-style: none;
+   list-style: none;
     margin: 0;
     padding: 0;
 }
@@ -101,7 +101,7 @@ section {
     padding: 5.5rem 0;
 }
 .section-title {
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     text-transform: uppercase;
 
 }
@@ -342,7 +342,7 @@ margin-top: 2.8rem;
 }
 
 .portfolio-filters .grid__item{
-    max-width: 50%;
+    max-width: 70%;
     margin-bottom: 0;
 }
 
@@ -366,17 +366,18 @@ margin-top: 2.8rem;
  text-transform: uppercase;
  position: relative;
  box-shadow: 0 0 7px rgba(0,0,0,0,1);
- border: 1px solid #EEE;
+
 }
 
 .card__inner{
-    padding:2rem;
+    padding:1rem;
 }
 
 .card__title {
     margin:0 0 1rem;
-    font-size: 1.6rem;
+    font-size: 1rem;
 }
+
 
 .card__overlay{
    background: rgba(0,0,0,0,8);
