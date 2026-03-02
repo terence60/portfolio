@@ -31,5 +31,4 @@ Email : terence.dinguilu@gmail.com
 Linkedin : https://www.linkedin.com/in/terence-dinguilu-439a24282
 
 
-- LinkedIn : [lien]
-- Email : [email]
+
